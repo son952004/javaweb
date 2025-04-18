@@ -1,0 +1,52 @@
+body{font-size:14px;margin: 0;font-family: Arial;}
+a{color: black;}
+*{text-decoration: none;list-style: none;}
+.head{background-color: #98c5e9;width: 100%;}
+.icon{padding-left: 5px;}
+.head1{width: 80%;margin: auto;display: flex;justify-content: end;border-bottom: 1px solid rgba(0,0,0,0.1);}
+.head1 p{margin-left: 20px;}
+.head2{width: 80%;margin:auto;display: flex;justify-content: space-between;}
+.head2_left1 ul{display: flex;padding-left: 0;}
+.head2_left1 ul li{padding: 30px 0px;margin-left: 20px;font-weight: bold;font-size: 18px;}
+.head2_right form{border-radius: 100%;margin-top: 40px;position: relative;padding-left:15px}
+
+.head2_right{display: flex}
+.cart-container{margin-left:5%;position: relative;margin-top: 42px;}
+.cart-icon {font-size: 15px; color: #333;}
+.cart-count{position: absolute; background-color: red;color: white;border-radius: 50%; padding: 2px 5px;font-size: 10px;}
+
+
+.kinhnup{position: absolute;top:4px;right: 3px;}
+.content{position: relative;}
+.content1_discount{background-color: yellow;text-align: center;padding: 1px;font-weight: bold;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.content1_p{margin-top: 20px;display: flex;flex-direction: column;}
+/* coppy */
+
+.content2{width: 80%;margin:40px auto;display: flex;justify-content: space-between;color: black;margin-top: 30px}
+.content2_left{width: 50%;background-color:white;}
+.content2_right{width: 40%;margin-left: 5%}
+.content2_left_product {display: flex;justify-content: space-between;border-bottom: 1px solid rgba(0, 0, 0, 0.2); padding-top: 15px;}
+.content2_left:last-child{border-bottom: none;}
+.content2_left_product img{flex-basis: 30%;width: 140px;height: 180px;object-fit: cover; margin:0 0 10px 10px}
+.content2_left_product .product_left{width: 65%;word-wrap: break-word;}
+.product_left :first-child{font-size: 15px}
+.product_left {position: relative;}
+
+.quantity-container {display: flex; align-items: center;gap: 10px;position: absolute;bottom: 25%;right: 0%;}
+.delete{position: absolute;top: 0;right: 0}
+.price {display: flex;justify-content: space-between;}
+.price p{font-size: 14px}
+.contact_price :nth-child(3){font-size: 20px}
+.contact_price button{padding: 5%;background-color: yellow;width: 100%;border: none; margin-bottom: 15px}
+
+.contact_price button:hover{color: red;}
+
+
+.img{margin: auto;width: 80%;flex-basis: 30%;display: flex;justify-content: space-around;}
+.fotter_head {width: 60%;margin: auto;}
+.fotter_head img{width: 100%;}
+.fotter_body{display: flex;background-color: #98c5e9;padding: 25px;justify-content: space-around;}
+.fotter_end ul{display: flex;justify-content: space-between;}
+.fotter_end{width: 80%;margin: 20px auto;display: flex;justify-content: space-between;}
+.fotter_end ul li{margin-right: 15px;}
+.fotter_end img{justify-content: flex-end;}

@@ -1,0 +1,49 @@
+body{font-size:14px;margin: 0;font-family: Arial;}
+a{color: black;}
+*{text-decoration: none;list-style: none;}
+.head{background-color: #98c5e9;width: 100%;}
+.icon{padding-left: 5px;}
+.head1{width: 80%;margin: auto;display: flex;justify-content: end;border-bottom: 1px solid rgba(0,0,0,0.1);}
+.head1 p{margin-left: 20px;}
+.head2{width: 80%;margin:auto;display: flex;justify-content: space-between;}
+.head2_left1 ul{display: flex;padding-left: 0;}
+.head2_left1 ul li{padding: 30px 0px;margin-left: 20px;font-weight: bold;font-size: 18px;}
+.head2_right form{border-radius: 100%;margin-top: 40px;position: relative;padding-left:15px}
+
+.head2_right{display: flex}
+.cart-container{margin-left:5%;position: relative;margin-top: 42px;}
+.cart-icon {font-size: 15px; color: #333;}
+.cart-count{position: absolute; background-color: red;color: white;border-radius: 50%; padding: 2px 5px;font-size: 10px;}
+
+
+.kinhnup{position: absolute;top:4px;right: 3px;}
+.content{position: relative;}
+.content1_discount{background-color: yellow;text-align: center;padding: 1px;font-weight: bold;font-family: georgia;}
+.content1_p{margin-top: 20px;display: flex;flex-direction: column;}
+.content1_p h2, .content1_p p{margin: 10px auto}
+.content1_p p:last-child{font-weight: bold;background-color: yellow;padding: 20px;}
+.content2{margin: auto;width: 80%;}
+.content2 h1{font-weight: bold;}
+.content2_item1_content {display: flex;justify-content: space-between;}
+.content2_item1_content1 {flex-basis: 20%;display: block;}
+.content2_item1_content1 p:first-child{border: 3px solid black;width: 20%;text-align: center;float: right;}
+.content2_item1_content1 img{margin: auto;}
+.content2_container1 img{width: 100%;}
+.content2_container1{width: 19%;}
+.content2_container{display: flex;text-align: center;justify-content: space-between;}
+.content2_container2{display: flex;justify-content: space-between;}
+.content2_container22 img{width: 100%;}
+.content2_container22{flex-basis:49%;text-align: center;}
+.content2_container3{margin-top: 30px;display: flex;justify-content: space-between;}
+.content2_container33{flex-basis: 24%;text-align: center;}
+.content2_container33 img{width: 100%;}
+.fotter{
+    margin-top: 30px;
+}
+.fotter_head {width: 60%;margin: auto;}
+.fotter_head img{width: 100%;}
+.fotter_body{display: flex;background-color: #98c5e9;padding: 25px;justify-content: space-around;}
+.fotter_end ul{display: flex;justify-content: space-between;}
+.fotter_end{width: 80%;margin: 20px auto;display: flex;justify-content: space-between;}
+.fotter_end ul li{margin-right: 15px;}
+.fotter_end img{justify-content: flex-end;}

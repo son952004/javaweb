@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/vn/doan/controller/backend/ProductAdminController.java=UTF-8
+encoding//src/main/java/vn/doan/controller/frontend/CartController.java=UTF-8
+encoding//src/main/java/vn/doan/controller/frontend/Player.java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/frontend/css/halland.css=UTF-8
+encoding//src/main/webapp/WEB-INF/views/common/variables.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/frontend/cart.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/frontend/halland.jsp=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8

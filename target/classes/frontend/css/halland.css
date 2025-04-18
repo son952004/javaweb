@@ -1,0 +1,83 @@
+body{font-size:14px;margin: 0;font-family: Arial;}
+a{color: black;}
+*{text-decoration: none;list-style: none;}
+.head{background-color: #98c5e9;width: 100%;}
+.icon{padding-left: 5px;}
+.head1{width: 80%;margin: auto;display: flex;justify-content: end;border-bottom: 1px solid rgba(0,0,0,0.1);}
+.head1 p{margin-left: 20px;}
+.head2{width: 80%;margin:auto;display: flex;justify-content: space-between;}
+.head2_left1 ul{display: flex;padding-left: 0;}
+.head2_left1 ul li{padding: 30px 0px;margin-left: 20px;font-weight: bold;font-size: 18px;}
+.head2_right form{border-radius: 100%;margin-top: 40px;position: relative;padding-left:15px}
+
+.head2_right{display: flex}
+.cart-container{margin-left:5%;position: relative;margin-top: 42px;}
+.cart-icon {font-size: 15px; color: #333;}
+.cart-count{position: absolute; background-color: red;color: white;border-radius: 50%; padding: 2px 5px;font-size: 10px;}
+
+
+.kinhnup{position: absolute;top:4px;right: 3px;}
+.content{position: relative;}
+.content1_discount{background-color: yellow;text-align: center;padding: 1px;font-weight: bold;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.content1_p{margin-top: 20px;display: flex;flex-direction: column;}
+/* coppy */
+
+.content{background-color: #001838;}
+.content2{width: 80%;margin:40px auto;display: flex;justify-content: space-between;color: white;}
+.right{width: 35%;}
+.right ul{display: flex;padding: 0;color: aqua;}
+.right ul li{margin-right: 20px;}
+.right h3{color:aqua;font-weight: bold;margin-top: 30px;margin-bottom: 10px;}
+.right h1{margin-top: 0;}
+.sale{border:0px solid  #001838;border-radius: 10px;background-color: red;padding: 5px;margin-left: 10px;}
+.select{padding: 10px 40px 10px 10px;border: 1px solid white;}
+.font{display: flex;justify-content: space-between;}
+.font h4{flex-basis: 45%;text-align: center;padding:5px}
+.font h4:last-child{background-color: white;color:black}
+.font h4:first-child{border: 1px solid white;}
+.right button{padding-top: 10px;padding-bottom: 10px;background-color: yellow;text-align: center;color: black; width: 100%}
+.right button :hover{color:red;}
+
+.img{margin: auto;width: 80%;flex-basis: 30%;display: flex;justify-content: space-around;}
+.fotter_head {width: 60%;margin: auto;}
+.fotter_head img{width: 100%;}
+.fotter_body{display: flex;background-color: #98c5e9;padding: 25px;justify-content: space-around;}
+.fotter_end ul{display: flex;justify-content: space-between;}
+.fotter_end{width: 80%;margin: 20px auto;display: flex;justify-content: space-between;}
+.fotter_end ul li{margin-right: 15px;}
+.fotter_end img{justify-content: flex-end;}
+.left {
+            width: 40%; /* Phần lướt ảnh chiếm 35% chiều rộng */
+            text-align: center;
+            padding-top: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .left img {
+            display: block;
+            margin: 0 auto;
+           	width: 300px;height: 400px; object-fit: cover;
+        }
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+        button {
+            font-size: 16px;
+            padding: 10px 20px;
+            margin: 10px;
+            cursor: pointer;
+        }
+        .image-index {
+            font-size: 18px;
+            font-weight: bold;
+            margin: 0 20px;
+        }
+        /* Phần không gian bên phải */
+        .right-container {
+            width: 65%; /* Phần bên phải chiếm 65% chiều rộng */
+            padding: 20px;
+            background-color: #f0f0f0; /* Màu nền để phân biệt */
+        }
