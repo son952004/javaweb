@@ -47,7 +47,7 @@
   └── 📁 src/main/java
       └── 📁vn.doan
   * Mở `file StartSeverJavaWeb.java` trong packet `vn.doan`.
- - B2 : Click biểu tượng ▶️ màu xanh lá trên thanh công cụ, bên dưới tìm `RunAs` tìm `Java Application` hoặc giữ `Alt` + `Shift` + `x` > bấm `j`
+ - B2 : Click biểu tượng ▶️ màu xanh lá trên thanh công cụ, dưới tìm `RunAs` tìm `Java Application` hoặc giữ `Alt` + `Shift` + `x` > bấm `j`
  - B3 : Mở google truy cập `http://localhost:9090/home/view` hoặc trang admin : `http://localhost:9090/admin`
   ## 🔐 Tài khoản đăng nhập thử với trang admin
 
